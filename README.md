@@ -62,7 +62,7 @@ ID                  Installed Latest Name
 adafruit:avr@1.4.13 1.4.13    1.4.13 Adafruit AVR Boards
 ```
 
-Then, I Listed All `arduino-cli listall flora` to get the Fully Qualified Board Name (FQBN):
+Then, I Listed All `arduino-cli board listall flora` to get the Fully Qualified Board Name (FQBN):
 ```
 Board Name     FQBN
 Adafruit Flora adafruit:avr:flora8
